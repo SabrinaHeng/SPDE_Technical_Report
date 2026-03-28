@@ -15,6 +15,8 @@
 |------|----------------------|---------|
 | **24 Mar 2026** | Selected topic and reviewed assignment instructions | Chose topic: *Data Architecture in Data Engineering* |
 | **25 Mar 2026** | Distribute Tasks for team members | Tasks distributed |
+| **25 Mar 2026** | Dr Aryati shared AI Searching Materials tools | Start explore searching materials provided |
+| **26 Mar 2026** | Drafted report outline based on template | Structured sections (Introduction → Literature → Analysis → Recommendation → Conclusion) |
 
 ---
 
