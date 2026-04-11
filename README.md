@@ -46,6 +46,6 @@
 ## 📸 Appendix Screenshots
 
 Below are selected screenshots that show the use of AI tools, proofreading, and plagiarism checks during the report preparation process.
-### 1. ChatGPT Prompt Example ![ChatGPT Prompt Screenshot](appendix/image/chatgpt_ss.png) 
-### 2. Gemini Prompt Example ![Gemini Prompt Screenshot](appendix/Screenshot_2026-04-11_173229.png) 
+### 1. ChatGPT Prompt Example ![ChatGPT Prompt Screenshot](appendix/Chatgpt.png) 
+### 2. Gemini Prompt Example ![Gemini Prompt Screenshot](appendix/Gemini.png) 
 ### 3. Turnitin Similarity Report ![Turnitin Report Screenshot](appendix/Clockify_Time_Report_Detailed_20_03_2026-12_04_2026_1.jpg)
