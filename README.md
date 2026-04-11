@@ -31,9 +31,15 @@
 
 ## 🤖 AI Tools and Usage
 
-| Date | AI Tool Used | Purpose of Use | Verification Method |
-|------|---------------|----------------|---------------------|
-| 25 Mar | ChatGPT | Helped structure report outline | Verified with assignment template |
+| Date | AI Tool Used | Purpose of Use | Prompt Used | Verification Method |
+|------|---------------|----------------|-------------|---------------------|
+| 25 Mar | ChatGPT | Helped structure report outline | "Help me create a technical report outline for Data Architecture in Data Engineering" | Verified with assignment template provided by lecturer |
+| 26 Mar | ChatGPT | Explained basic concept of data architecture | "Explain data architecture in data engineering in a simple and clear way" | Cross-checked with academic sources and lecture materials |
+| 27 Mar | Gemini | Explained concept of data mesh and real-world relevance | "Explain data mesh in easy understand way and how does it relate to healthcare system" | Compared with online articles and journals |
+| 28 Mar | Gemini | Generated research keywords | "What is the keyword for Data Architecture in Data Engineering" | Used keywords to search in Google Scholar and verified relevance |
+| 29 Mar | Gemini | Helped understanding data architecture concept | "Please explain the data architecture concept to me" | Cross-checked with multiple sources and lecture notes |
+| 5 Apr | ChatGPT | Improved writing clarity and grammar | "Check grammar and improve this conclusion paragraph" | Manually reviewed to ensure meaning remains accurate |
+| 10 Apr | Turnitin | Plagiarism checking | N/A | Confirmed similarity score is within acceptable limit |
 
 ---
 
